@@ -1,0 +1,6 @@
+.users {
+  display: flex;
+  gap: 2rem;
+  background-color: #00d4ff;
+  padding: 3rem;
+}
